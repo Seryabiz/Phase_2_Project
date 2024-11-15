@@ -51,5 +51,5 @@ From the regression model we make the following notes:
 # Conclusion
 The results indicate that the company's plan of starting a movie studio is a viable venture and should therefore be explored. 
 To ensure that the venture is profitable the recommendations mentioned in the report should be taken into consideration. 
-The industry is ever changing and constant research and update on consumer preferences and the financial performance of the industry is highly recommended
+The industry is ever changing and constant research and update on consumer preferences and the financial performance of the industry is highly recommended.
 
