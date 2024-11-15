@@ -1,8 +1,6 @@
 # MOVIE STUDIO ANALYSIS
 ## Identifying Key Factors For Success in the Film Industry
-![Movie](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Uyc3JnemNjNzZzcXc3bTFxejRxM2U5ZWIyNTVtMGJiaG5hdjdpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ecgWrXhtlmhmlxmvK/giphy.gif)
-
-
+![Movie](Movies.png)
 # OVERVIEW
 The movie studio industry faces increasing pressure to maximize efficiency, minimize costs, and improve profitability while remaining competitive in an ever-changing market. With the growing complexity of film production, distribution, and marketing, studios must leverage data-driven insights to make informed decisions and stay ahead of industry trends.
 
