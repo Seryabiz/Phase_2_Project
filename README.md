@@ -1,6 +1,6 @@
 # MOVIE STUDIO ANALYSIS
 ## Identifying Key Factors For Success in the Film Industry
-![Movie](images.jfif)
+![Movies](Images/Movie_time.jpg)
 # OVERVIEW
 The movie studio industry faces increasing pressure to maximize efficiency, minimize costs, and improve profitability while remaining competitive in an ever-changing market. With the growing complexity of film production, distribution, and marketing, studios must leverage data-driven insights to make informed decisions and stay ahead of industry trends.
 
@@ -26,7 +26,7 @@ There is a difference in the amounts gained in the foreign market and in the dom
 ## 3. popularity of different film genres to guide genre selection in alignment with audience preferences
  The Comedy, Documentary, Fantasy genre is the most popular
 ![Top_rated_genres](Images/Top_rated_genres.jpg)
-## Impact of movie runtime on popularity to determine optimal lengths for future productions
+## 4. Impact of movie runtime on popularity to determine optimal lengths for future productions
 The heatmap confirms that the runtime does not affect the popularity. The genre of the movie is however anticipated to affect the popularity of the movie.
 ![Heatmap_popularity](Images/Heatmap_popularity.jpg)
 # Hypothesis testing
@@ -49,5 +49,7 @@ From the regression model we make the following notes:
 4. The company's studio should not focus on the runtime but other factors of quality that will make the movies more popular. The heatmap confirms that the runtime does not affect the popularity and thus the company's studio should not focus on the runtime but other factors of quality that will make the movies more popular eg the genre of the movie.
 5. The Comedy, Documentary, Fantasy genre is the most popular and therefore the studio should therefore venture into producing that genre.
 # Conclusion
-The research done and the results found indicate that the company's plan of starting a movie studio is a viable venture and should therefore be explored. To ensure that the venture is profitable the recommendations mentioned in the report should be taken into consideration. The industry is ever changing and constant research and always keeping up to date with changes in consumer preferences and the financial performance of the industry.
+The results indicate that the company's plan of starting a movie studio is a viable venture and should therefore be explored. 
+To ensure that the venture is profitable the recommendations mentioned in the report should be taken into consideration. 
+The industry is ever changing and constant research and update on consumer preferences and the financial performance of the industry is highly recommended
 
