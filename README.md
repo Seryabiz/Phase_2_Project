@@ -1,1 +1,3 @@
-# Phase_2_Project
+# MOVIE STUDIO ANALYSIS
+## Identifying Key Factors For Success in the Film Industry
+
