@@ -13,7 +13,7 @@ This problem revolves around understanding and improving the operational perform
 3. Assess the popularity of different film genres to guide genre selection in alignment with audience preferences.
 4. Evaluate the impact of movie runtime on popularity to determine optimal lengths for future productions.
 # Data sets used
-
+https://github.com/Seryabiz/Phase_2_Project/blob/main/DATA/bom.movie_gross.zip
 
 # Data Analysis
 Python Libraries used were; 
