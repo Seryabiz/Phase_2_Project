@@ -31,10 +31,13 @@ The heatmap confirms that the runtime does not affect the popularity. The genre 
 ![Heatmap_popularity](Images/Heatmap_popularity.jpg)
 # Hypothesis testing
 There is a claim that there is a difference in the gross amount earned in the domestic and foreign market. To ascertain this we carried out a two sample independent t test.
+
 Null Hypothesis (H0): There is no difference in the gross amount earned in the domestic market compared to that earned in the foreign market. 
 μ1 = μ2
+
 Alternative Hypothesis (H1): There is a difference in the gross amount earned in the domestic market compared to that earned in the foreign market. 
 μ1 ≠μ2
+
 The hypothesis test confirms that the earlier difference between the gross amount earned in the foreign market and domestic market is significant.
 # Regression model
 From the regression model we make the following notes: 
