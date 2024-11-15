@@ -14,6 +14,7 @@ This problem revolves around understanding and improving the operational perform
 4. Evaluate the impact of movie runtime on popularity to determine optimal lengths for future productions.
 # Data sets used
 https://github.com/Seryabiz/Phase_2_Project/blob/main/DATA/bom.movie_gross.zip
+https://github.com/Seryabiz/Phase_2_Project/blob/main/DATA/im.db.zip
 
 # Data Analysis
 Python Libraries used were; 
