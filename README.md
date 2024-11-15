@@ -2,6 +2,7 @@
 ## Identifying Key Factors For Success in the Film Industry
 ![Movie](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Uyc3JnemNjNzZzcXc3bTFxejRxM2U5ZWIyNTVtMGJiaG5hdjdpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ecgWrXhtlmhmlxmvK/giphy.gif)
 
+
 # OVERVIEW
 The movie studio industry faces increasing pressure to maximize efficiency, minimize costs, and improve profitability while remaining competitive in an ever-changing market. With the growing complexity of film production, distribution, and marketing, studios must leverage data-driven insights to make informed decisions and stay ahead of industry trends.
 
@@ -15,9 +16,8 @@ This problem revolves around understanding and improving the operational perform
 # Data sets used
 https://github.com/Seryabiz/Phase_2_Project/blob/main/DATA/bom.movie_gross.zip
 https://github.com/Seryabiz/Phase_2_Project/blob/main/DATA/im.db.zip
-
 # Data Analysis
-Python Libraries used were; 
+The Python Libraries used were; Pandas, Numpy, Sqlite3, seaborn, matplotlib, scipy.stats, statsmodels.api, zipfile,sklearn.model selection, sklearn.metrics and sklearn.linear model
 
 # Findings
 ## 1. Trends in movie sales over time
