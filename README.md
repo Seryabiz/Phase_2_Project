@@ -15,5 +15,11 @@ This problem revolves around understanding and improving the operational perform
 # Data sets used
 
 
+# Data Analysis
+Python Libraries used were; 
+
+# Findings
+## 1. Trends in movie sales over time
+
 ![Gross_by_market](Images/Gross_by_market.jpg)
 
